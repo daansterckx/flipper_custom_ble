@@ -1,0 +1,11 @@
+App(
+    appid="ble_spam",
+    name="BLE Spam",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="ble_spam_app_main",  
+    stack_size=2 * 1024,
+    fap_category="Bluetooth",
+    fap_author="Daan",
+    fap_version="1.0",
+    fap_description="Spam nearby devices with custom BLE names",
+)
