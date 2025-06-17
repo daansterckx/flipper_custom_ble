@@ -1,4 +1,4 @@
-# Flipper Zero BLE Spam Module
+# Flipper Zero BLE Spam Module (not working)
 
 This project implements a Bluetooth Low Energy (BLE) spam module for the Flipper Zero device. The module is designed to send custom names to nearby Bluetooth devices, allowing for testing and experimentation with BLE advertising.
 
